@@ -1,0 +1,3 @@
+﻿  C++TerminalG.cpp
+C:\Users\Yigit\source\repos\C++TerminalG\C++TerminalG\C++TerminalG.cpp(123,15): warning C4102: 'SEEWORKERINFO': unreferenced label
+  C++TerminalG.vcxproj -> C:\Users\Yigit\source\repos\C++TerminalG\x64\Debug\C++TerminalG.exe
